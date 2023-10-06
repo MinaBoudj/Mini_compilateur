@@ -1,0 +1,79 @@
+   
+private class $isilA {
+	
+Reel $var,$x,$y;
+
+Entier $A,$D,$F,$j,$C,$c,$l,$k,$p,$K;
+
+Chaine @T[5],@Tab[8];
+
+Entier @Tab2[9] , @Tab4[6],@Tab3[9],@T[5];
+
+CONST  Reel  $const := 5.5 , $bio ;
+
+CONST  Entier  $B := 8  ; 
+
+CONST Chaine @tb[3] := BONJOUR ;
+CONST Chaine @tb1[1.1]  ;
+CONST Chaine @tb2[0]  ;
+
+
+CONST Entier $i  ;
+   
+CONST Entier $oo  ;
+
+ 
+main()
+{   
+     $F := 1.0; 
+     
+    @Tab4[1] := @Tab[1];
+       $yyy := 1;
+   $A := $D;
+   $D := $D / 0 ;
+   $k := @Tab[2];
+   @Tab3[9] := @Tab2[5] * 2 ;
+   $bio := 11.7;
+    Out("La  VALEUR  DU P est  %s et la valeur de A est %d",$p,$A ); 
+     $i := $D;
+	   ##   Les  boucle  for  ## 
+   For($j:=1;$j <= 10 ; $j++ )
+   { 
+         $j := $j/2;
+		Out("La  VALEUR  DU P est  %d",$K );
+	     $i := 7;
+		  
+   } 
+    @tb[1] := BON;
+   For($l:=1;$l > 10 ; $l++ )
+   {      $B := 9 ;
+         $l := $l + 2;
+	     $j := $j / 0 ;
+		 Out("La  VALEUR  DU P est  %d",$K );
+     $l := $k;
+	 
+   } 
+   Out("La  VALEUR  DU P est  %d",$K );
+   
+   ##  Lire la valeur du A ET K ET P ## 
+   In("%d",$A); 
+   
+   In("%s",$k); 
+   
+   In("%f",$p); 
+   
+    $bio := 4.7;
+	$hhhhh :=1;
+     @tt[2] := 8.1;
+	 
+	  $c := $y;
+	  $var := 3;
+	  @tb2[0] := 2;
+	  $var := $c;
+} 
+ 
+
+
+}
+
+
